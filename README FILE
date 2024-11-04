@@ -1,0 +1,8 @@
+##objetivo
+
+Criar um carrinho de compras da shopee, armazene itens faça calculo de sub-itens automaticamente
+
+//dominio da aplicação: carrinho de compras
+//entidades representadas
+//carrinho
+//itens
